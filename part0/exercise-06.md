@@ -20,5 +20,5 @@ sequenceDiagram
 
     Note right of browser: spa.js appends the note to the lcoal array 
     and re-renders the DOM directly 
-    No additionbal HTTP request are made
+    No additional HTTP request are made
 ```
